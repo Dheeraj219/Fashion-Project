@@ -1,0 +1,14 @@
+Fashion dresses online selling website
+
+1st sprint
+
+Create the four webpages
+1. Index page --> Index.html
+2. Signup page --> SignUp.html
+3. Login page --> Login.html
+4. After login page --> Post_login.html
+
+
+After signup page --> Index.html
+After login page --> Post_login.html
+
